@@ -16,6 +16,13 @@ dir_name_main = "Z:\\slideshow\\" # The directory contains other directories (00
 
 dir_name_output = "Z:\\slideshow_out" # Directory for saving files mp4
 
+Video_type = 4 #  1 - 720х480, 2 - 854x480, 3 - 1280x720, 4 - 1920x1080,  5 - 3840x2160 - Screen resolution of video files.
+1 - 720x480,
+2 - 854x480,
+3 - 1280x720,
+4 - 1920x1080,
+5 - 3840x2160
+
 save file start.py
 
 Windows:
