@@ -1,5 +1,7 @@
 # slideshow02
 
+![alt text](test.gif "Example video")
+
 # Install
 
 Install python.
